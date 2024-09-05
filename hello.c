@@ -7,5 +7,6 @@ int main()
     int *p = &x;
     int b = 6;
     printf("Hello World\n %d\n", b);
+    printf("Hello Testing");
     return 0;
 }
