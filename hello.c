@@ -8,4 +8,4 @@ int main()
     int b = 6;
     printf("Hello World\n %d\n", b);
     return 0;
-}.
+}
